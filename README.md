@@ -1,21 +1,21 @@
-# mit
+# 米提 mit
 
-## Project setup
+## 安装依赖包
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 yarn run build
 ```
 
-### Lints and fixes files
+### 检查代码格式
 ```
 yarn run lint
 ```
