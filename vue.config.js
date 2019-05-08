@@ -2,7 +2,7 @@
 module.exports = {
     // 输出文件目录
     baseUrl:'./',
-    outputDir: 'doc',
+    outputDir: 'docs,
     runtimeCompiler: true,
     css: {
       loaderOptions: {
